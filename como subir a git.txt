@@ -1,0 +1,22 @@
+$ git config --global user.email "nikoflores013@gmail.com"  // configura el mail
+
+git init
+
+git add .
+
+git commit -m "mensaje"
+
+$ git branch -M master
+
+git remote set-url origin https://github.com/niko013/maquetacion2.git
+
+git push origin -u master
+
+-------------------------------------------
+git remote set-url origin https://github.com/niko013/maquetacion2.git
+
+git branch -M master
+
+git push origin -u master
+
+
